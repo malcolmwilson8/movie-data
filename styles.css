@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz@6..72&display=swap');
+html{
+    background-color: rgb(181, 217, 238);
+}
+
+h2{
+    font-family: Newsreader;
+}
+
+h3{
+    font-family: Newsreader;
+}
+
+h4{
+    font-family: Newsreader;
+}
+
+section{
+    text-align: center;
+    font-family: Newsreader;
+}
+
+body{
+    margin-top: 20px;
+    position: relative;
+    text-align: center;
+}
+
